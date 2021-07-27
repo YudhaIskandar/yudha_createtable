@@ -1,2 +1,4 @@
 Create databse yudha;
 Create table rsmh;
+Create rable RSMH;
+ALTER TABLE RSMH ADD Nama varchar(25);
